@@ -1,0 +1,1 @@
+# git_rad_graph_lab6
